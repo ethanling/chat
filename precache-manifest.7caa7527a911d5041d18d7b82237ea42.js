@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/chat/static/js/runtime~main.420fe194.js"
   },
   {
-    "revision": "d7b31be0c8d5fcc01486818392676325",
+    "revision": "7b6921cd0425a7aefd731c88f6292a9c",
     "url": "/chat/index.html"
   }
 ];
